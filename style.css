@@ -3,6 +3,7 @@ body{
   color: black;
 }
 h1{
+  border: yellow 1px solid;
   background: red;
   color: white;
 }
