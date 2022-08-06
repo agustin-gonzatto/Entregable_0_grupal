@@ -7,3 +7,10 @@ h1 {
   background: red;
   color: white;
 }
+h2{
+  background-color: rgba(148, 0, 211, 0.336);
+}
+a{
+  color: yellow;
+  text-decoration: none;
+}
